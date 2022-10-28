@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.b087eb59.css",
+    "main.js": "/react-gh-pages/static/js/main.b1b1a20b.js",
+    "static/media/mint-banner01.mp4": "/react-gh-pages/static/media/mint-banner01.40c8900571a9d856ebed.mp4",
+    "index.html": "/react-gh-pages/index.html",
+    "main.b087eb59.css.map": "/react-gh-pages/static/css/main.b087eb59.css.map",
+    "main.b1b1a20b.js.map": "/react-gh-pages/static/js/main.b1b1a20b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b087eb59.css",
+    "static/js/main.b1b1a20b.js"
+  ]
+}
